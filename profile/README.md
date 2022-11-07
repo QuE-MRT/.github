@@ -1,4 +1,4 @@
-![QuE_Logo_cropped](https://user-images.githubusercontent.com/18266223/200271896-e93ed21a-7f42-44c8-b263-8632c7f64937.png)
+![QuE_Logo_cropped](https://user-images.githubusercontent.com/18266223/200273741-876ecea9-f357-4362-86be-5b38e9338ffc.png)
 
 ## Hi there 👋
 
