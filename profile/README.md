@@ -9,7 +9,16 @@ The project aims to build a commercially available end-to-end platform to enhanc
 This GitHub repository contains the developments we will conduct on the acquisition and visualization parts of the project. We aim to create a forum here for everybody in the HP MRI community. The goal is to exchange and jointly develop advanced methods for vendor agnostic MR data processing, visualization and structured reporting while lowering the barrier for radiologists to utilize the techniques. It requires whole toolboxes of functions and algorithms taylored towards compatibility with the software that radiologists are accustomed to use to in their day-to-day routine.
 It will include up-to-date forks from scientific repositories world-wide that contain state-of-the-art methods in HP MRI processing. We will create a repository that includes clean code specifically designed for clinical studies. And we will provide a MRI sandbox repository for joint development of tomorrows algorithms in metabolic imaging using HP MRI.
 
+# Rules:
+* Main or Master branches from forked repositories must be kept up-to-date.
+* Main or Master branches from all repositories (forked and owned) in QuE-MRT must be protected.
+* Members edit code only on personal branches (not Main or Master)
+* Merge-requests must be submitted for merges into Main or Master after the new code was successfully tested 
+* ...
+
 ### We're just about to start / more information will follow soon
+
+
 
 <!--
 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
