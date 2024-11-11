@@ -86,13 +86,13 @@ To ensure consistency across our codebase, please follow these standards:
 ## Code Review Process
 1. Reviewers should check for code quality, adherence to standards, and the absence of bugs.
 2. Once the PR is approved by at least one reviewer, you may merge it into the development branch.
-3. After merging, update your local development branch and delete the feature/hotfix branch (both locally and remotely if needed):
-   ´´´bash
-   git checkout development
-   git pull origin development
-   git branch -d <branch-name>
-   git push origin --delete <branch-name>
-   ´´´
+3. After merging, update your local development branch and (if needed) delete the feature/hotfix branch:
+```bash
+git checkout development
+git pull origin development
+git branch -d <branch-name>
+git push origin --delete <branch-name>
+```
 
 ---
 
