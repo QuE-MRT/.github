@@ -4,7 +4,7 @@
 
 Welcome to the QuE-MRT GitHub organization! This README provides essential guidelines for cloning repositories, setting up your environment, and following best practices for collaborative development.
 
-The QuE-MRT project aims to build a commercially available end-to-end platform to enhance, acquire and visualize magnetic resonance signals of metabolic processes in humans by use of Hyperpolarization ([Wikipedia](https://en.wikipedia.org/wiki/Hyperpolarization_(physics))). The goal is to translate Hyperpolarized (HP) Magnetic Resonance Imaging (MRI) into clinical applications in Germany and worldwide. The project is funded by the German agency Bundesministerium für Bildung und Forschung (BMBF) for four years (2022 - 2026) and brings together three German universities and four companies. Read more about QuE-MRT [here](https://www.quantentechnologien.de/forschung/foerderung/leuchtturmprojekte-der-quantenbasierten-messtechnik/que-mrt.html).
+The QuE-MRT project aims to build a commercially available end-to-end platform to enhance, acquire and visualize magnetic resonance signals of metabolic processes in humans by use of [Hyperpolarization](https://en.wikipedia.org/wiki/Hyperpolarization_(physics)). The goal is to translate Hyperpolarized (HP) Magnetic Resonance Imaging (MRI) into clinical applications in Germany and worldwide. The project is funded by the German agency Bundesministerium für Bildung und Forschung (BMBF) for four years (2022 - 2026) and brings together three German universities and four companies. Read more about QuE-MRT [here](https://www.quantentechnologien.de/forschung/foerderung/leuchtturmprojekte-der-quantenbasierten-messtechnik/que-mrt.html).
 
 ---
 
