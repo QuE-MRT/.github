@@ -77,7 +77,7 @@ git checkout -b feature/add-new-feature
 ## Coding Standards
 To ensure consistency across our codebase, please follow these standards:
 
-- Code Formatting: Adhere to the language-specific formatting rules (e.g., [Prettier](https://prettier.io/) for JavaScript, [Black](https://pypi.org/project/black/) for Python, [Style Guidelines](https://de.mathworks.com/matlabcentral/fileexchange/45047-matlab-style-guidelines-cheat-sheet) for Matlab).
+- Code Formatting: Adhere to the language-specific formatting rules (e.g., [Prettier](https://prettier.io/) for JavaScript, [Black](https://pypi.org/project/black/) for Python, [Style Guidelines](https://de.mathworks.com/matlabcentral/fileexchange/45047-matlab-style-guidelines-cheat-sheet) or [MBeautifier](https://github.com/davidvarga/MBeautifier)for Matlab).
 - Documentation: Document functions, classes, and modules as needed.
 - Testing: Ensure your code includes appropriate tests and passes all existing tests before making a pull request.
 
